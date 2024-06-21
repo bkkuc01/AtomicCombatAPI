@@ -14,5 +14,6 @@ public interface CooldownedItem {
 
     Material getMaterial();
     int getTime();
+    int setTime(int time);
     BukkitTask getTask();
 }
