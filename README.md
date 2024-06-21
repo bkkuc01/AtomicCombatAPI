@@ -12,7 +12,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.bkku01</groupId>
+            <groupId>com.github.bkkuc01</groupId>
             <artifactId>AtomicCombatAPI</artifactId>
             <version>1.1.6.1</version>
         </dependency>
