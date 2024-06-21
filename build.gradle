@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'pl.bkkuc'
-version = '1.0'
+version = '0.0.1'
 
 repositories {
     mavenCentral()
@@ -26,7 +26,7 @@ dependencies {
     compileOnly 'com.github.bkkuc01:PurUtils:0.1'
 }
 
-def targetJavaVersion = 8
+def targetJavaVersion = 16
 java {
     def javaVersion = JavaVersion.toVersion(targetJavaVersion)
     sourceCompatibility = javaVersion
